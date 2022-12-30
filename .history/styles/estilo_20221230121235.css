@@ -101,11 +101,6 @@ footer > a{
     color: #E94F37;
 }
 
-#joao{
-    text-align: center;
-    margin: auto;
-}
-
 @media  screen and (min-width: 300px) and (max-width:800px){
     
     img{

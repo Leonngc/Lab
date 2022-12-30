@@ -86,25 +86,7 @@ body{
         transform: scale(1.3);
 }
 
-footer{
-    font-size: 22px;
-    margin: auto;margin-top: 20px;
-    padding: 10px;
-    width: 30vw;
-    text-align: center;
-    background-color: black;
-    color: white;
-}
 
-footer > a{
-    text-decoration: underline;
-    color: #E94F37;
-}
-
-#joao{
-    text-align: center;
-    margin: auto;
-}
 
 @media  screen and (min-width: 300px) and (max-width:800px){
     

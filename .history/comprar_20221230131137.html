@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nic Lab</title>
+    <link rel="stylesheet" href="styles/pag-compra.css">
+</head>
+<body>
+    <header id="tit">
+        <h1 id="main">NIC LAB</h1>
+        <h4 id="sub">A melhor farmácia de manipulados para você</h4>
+    </header>   
+ <div id="formu">
+     
+     <form>
+         <fieldset>
+            <legend><h4>PREENCHA  OS DADOS PARA EFETUAR A COMPRA</h4></legend>
+            <label for="nome">Nome: </label> <input id="nome" type="text" class="dados" required autocomplete="name" minlength="3" placeholder="Preencha seu nome completo"> <br>
+            <label for="email">Email:</label> <input type="email" name="" id="email" class="dados" required autocomplete="email" placeholder="Preencha seu email"> <br>
+            <label for="senha">Senha:</label> <input type="password" name="" id="senha" class="dados" required placeholder="Senha com no mínimo 5 caracteres"minlength="5" maxlength="10"> <br>
+            <label for="idade">Idade:</label> <input type="number" name="idade" id="idade" class="dados" required maxlength="2" placeholder="Digite sua idade"> <br>
+            
+            <input type="submit" value="Comprar" id="compra" onclick="comprar()">
+         </fieldset>
+         
+     </form>
+ </div>
+<script src="js/compra.js"></script>
+</body>
+</html>

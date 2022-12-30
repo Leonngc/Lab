@@ -1,0 +1,18 @@
+function comprar() {
+
+let dados = [{
+     nome : document.getElementById("nome").value,
+     surname : document.getElementById("sobrenome").value,
+     email : document.getElementById("email").value,
+     password : document.getElementById("senha").value,
+     year : document.getElementById("idade").value,
+     res : document.getElementById('res'),
+        
+}
+]
+  if(year < 18){
+    res.innerHTML = `Desculpe ${name}, infelizmente você não poderá efetuar sua compra pois você é menor de idade :(`
+  }else{
+    res.innerHTML = `Obrigado por confiar na <strong>Nic Lab <strong>. Lhe desejo um excelente ciclo 😈`
+  }
+}

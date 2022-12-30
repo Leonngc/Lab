@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Safety;
+    src: url(../fonts/No\ Safety\ Zone.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header#tit{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #0a0a0a;
+
+    
+}
+h1{
+    font-family: Safety;
+    font-size: 32pt ;
+}
+h4#sub{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+h2#tit2{
+    text-align: center;
+    font-family: cursive;
+}
+body{
+    background-color: #fdfbfb;
+}
+
+div#formu{
+    background-color: #ffffff;
+    font-size: 17pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin: auto;
+    margin-top: 90px;
+    width: 40%;
+    border-radius: 5px;
+
+}
+legend{
+    font-size: 16pt;
+    font-family: cursive;
+}
+input#compra{
+    font-family: fantasy;
+    font-size: 13pt;
+}
+input#nome{
+    text-transform: capitalize;
+}
+
+.dados{
+    border-radius: 12px;
+}
+

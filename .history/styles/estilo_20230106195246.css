@@ -50,9 +50,10 @@ h2{
 
 body{
     background-image: url(../img/bodybuilder-146791_960_720.webp);
-    background-attachment:fixed;
-    background-repeat: space;
-
+    background-attachment: scroll;
+    background-repeat: ;
+    
+    
 }
 
 .produ > p {

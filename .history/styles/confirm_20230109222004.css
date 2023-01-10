@@ -13,7 +13,6 @@ h1{
 .prod{
     display: flex;
     margin-left: 200px;
-    padding: 30px;
 }
 
 .prod > p{
@@ -22,12 +21,7 @@ h1{
 }
 
 .prod > button{
-    height: 20px;
-    width: 15px;
-    margin-top: 12px;
-    background-color: white;
-    font-size: 20px;
-    color: rgb(0, 255, 98);
-    border: 0;
-
+    ju
+    height: 15px;
+    width: 30px;
 }

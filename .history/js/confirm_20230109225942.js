@@ -18,11 +18,11 @@ function addTrembo(){
 }
 
 function addTesto(){
-    alert("Você adicionou Durateston ao carrinho")
+    alert("Você adicionou trembo ao carrinho")
     
 }
 
 function addDeca(){
-    alert("Você adicionou Deca Durabolin ao carrinho")
+    alert("Você adicionou trembo ao carrinho")
     
 }

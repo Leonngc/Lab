@@ -23,6 +23,6 @@ function addTesto(){
 }
 
 function addDeca(){
-    alert("Você adicionou Deca Durabolin ao carrinho")
+    alert("Você adicionou trembo ao carrinho")
     
 }

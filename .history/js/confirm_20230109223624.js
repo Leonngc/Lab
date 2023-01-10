@@ -1,0 +1,3 @@
+function addTrembo(){
+    alert("Voc")
+}

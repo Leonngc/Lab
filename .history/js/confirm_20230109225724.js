@@ -9,20 +9,9 @@ var deca = {
     };
 
     var trembo = {
-        valor: 120,
+        valor: 20,
         ampolas: 10,
         };
 function addTrembo(){
     alert("Você adicionou trembo ao carrinho")
-    
-}
-
-function addTesto(){
-    alert("Você adicionou Durateston ao carrinho")
-    
-}
-
-function addDeca(){
-    alert("Você adicionou Deca Durabolin ao carrinho")
-    
 }

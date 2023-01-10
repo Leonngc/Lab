@@ -14,15 +14,4 @@ var deca = {
         };
 function addTrembo(){
     alert("Você adicionou trembo ao carrinho")
-    
-}
-
-function addTesto(){
-    alert("Você adicionou Durateston ao carrinho")
-    
-}
-
-function addDeca(){
-    alert("Você adicionou Deca Durabolin ao carrinho")
-    
 }

@@ -33,5 +33,5 @@ function addDeca() {
   localStorage.setItem(chaveAdd, deca);
   alert("Você adicionou Deca Durabolin ao carrinho");
 
-  res.innerHTML += `Deca R$70,00 <br>`
+  res.innerHTML += `Deca R$70,00 `
 }

@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
-   text-align: center;
-}
+body
 
 h1{
     text-align: center;
@@ -15,10 +13,9 @@ h1{
 }
 
 .prod{
- display: flex;
-   margin: auto;
+    display: flex;
+    margin-left: 200px;
     padding: 30px;
-    justify-content: center;
 }
 
 .prod > p{

@@ -15,15 +15,15 @@ h1{
 }
 
 .prod{
- display: flex;
+    display: flex;
    margin: auto;
     padding: 30px;
-    justify-content: center;
+    text-align: center;
 }
 
 .prod > p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 10px;
+   ma
 }
 
 .prod > button{

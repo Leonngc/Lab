@@ -15,10 +15,9 @@ h1{
 }
 
 .prod{
- display: flex;
-   margin: auto;
+    display: flex;
+   margin: 0 auto;
     padding: 30px;
-    justify-content: center;
 }
 
 .prod > p{

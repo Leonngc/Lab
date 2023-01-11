@@ -15,10 +15,10 @@ h1{
 }
 
 .prod{
- display: flex;
+    display: flex;
    margin: auto;
     padding: 30px;
-    justify-content: center;
+    te
 }
 
 .prod > p{

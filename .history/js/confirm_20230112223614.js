@@ -22,7 +22,7 @@ function addTrembo() {
   localStorage.setItem(chaveAdd, trembo);
   alert("Trembolone adicionado ao carrinho");
   res.innerHTML += `Trembolone R$70,00 <br>`
-  
+  for()
 }
 
 function addTesto() {

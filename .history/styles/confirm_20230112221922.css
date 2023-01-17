@@ -37,16 +37,10 @@ h1{
 
 }
 
-#button{
-    background-color: rgb(139, 195, 26);
-    color: white;
-    border: 0;
-    padding: 10px;
-    border-radius: 20px;
-    margin: 10px;
+button{
+    display: hidden;
 }
 
-#button:active{
-transform: scale(0.8);
-transition: .8s;
+#carrinho{
+    border: 2px solid black;
 }

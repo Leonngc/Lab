@@ -43,10 +43,9 @@ h1{
     border: 0;
     padding: 10px;
     border-radius: 20px;
-    margin: 10px;
 }
 
-#button:active{
-transform: scale(0.8);
-transition: .8s;
+#button:focus{
+ transform: scale(0.8);
+
 }

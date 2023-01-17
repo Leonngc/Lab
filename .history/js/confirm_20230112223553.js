@@ -15,14 +15,13 @@ const testo = {
 
 const chaveAdd = "anabol";
 var res = document.getElementById('carrinho');
-var i = 0
 
 
 function addTrembo() {
   localStorage.setItem(chaveAdd, trembo);
   alert("Trembolone adicionado ao carrinho");
   res.innerHTML += `Trembolone R$70,00 <br>`
-  
+  var trembos = 
 }
 
 function addTesto() {

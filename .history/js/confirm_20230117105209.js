@@ -42,6 +42,5 @@ function limpar(){
   res.removeChild(res.lastChild)
 }
  function buy(){
-  let cont = 1
-   localStorage.getItem()
+    for
  }

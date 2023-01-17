@@ -43,5 +43,5 @@ function limpar(){
 }
  function buy(){
   let cont = 1
-   localStorage.getItem()
+    for(cont = 1, cont++)
  }
